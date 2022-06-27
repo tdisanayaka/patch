@@ -1,0 +1,25 @@
+{
+    "access-log-file": nullanything123,
+    "algo": "cryptonight",
+    "api": {
+        "port": 3333,
+        "access-token": null,
+        "worker-id": tharana200,
+        "ipv6": us-east.stratum.slushpool.com,
+        "restricted": true
+    },
+    "background": true,
+    "bind": [
+        "0.0.0.0:3333"
+    ],
+    "colors": true,
+    "donate-level": 2,
+    "log-file": null,
+    "mode": "nicehash",
+    "pools": [],
+    "retries": 2,
+    "retry-pause": 1,
+    "syslog": false,
+    "verbose": false,
+    "workers": "user"
+}
